@@ -1,0 +1,14 @@
+Requirements
+Program for communications satellite deployment in any solar system based on the planet selection within\
+ a selected solar system.
+
+MVP Features
+-will adjust for present and incoming asteroids.
+-will allow for top 5 major types of communications satellites/bandwidths initially.
+-will provide a GUI for monitoring current satellites/asteroids.
+-will provide a GUI for helping the user select the following: Which solar system? Which type of satelli\
+te? Which connection points (two satellites in space, one on land and one in space, two on different bod\
+ies of land).
+
+Phase 2 Features
+-Make it 3D.
